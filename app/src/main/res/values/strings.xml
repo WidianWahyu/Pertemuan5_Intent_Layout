@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pertemuan5_Intent_Layout</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="username">Username</string>
+    <string name="gender">Gender :</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="pria">Pria</string>
+    <string name="tidak_dikenal">Tidak Dikenal</string>
+    <string name="wanita">Wanita</string>
+    <string name="submit">SUBMIT</string>
+    <string name="c">C</string>
+    <string name="basic">Basic</string>
+    <string name="cotline">Cotline</string>
+    <string name="java">Java</string>
+    <string name="kompeten">Kompeten</string>
+    <string name="phyton">Phyton</string>
+</resources>
